@@ -1,0 +1,133 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    background-color:#FFFFFF;
+
+
+}
+ img{
+    margin:10px;
+    padding: 0;
+}
+
+svg{
+    padding:4px;
+}
+
+
+h1{
+    padding-left:16px;
+    font-family: "Space Mono", monospace;
+    font-style:normal;
+    font-size:20px;
+    margin-top: 10px;
+    font-weight: bold;
+
+}
+
+h2{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 24px;
+    font-weight: bolder;
+   
+}
+.mb-4{
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+
+}
+
+h3{
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-size: small;
+}
+.collapse {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.block1 {
+    background-color:#100F0F;
+    color: rgb(255, 255, 255);
+    font-family: "Space Grotesk", sans-serif;
+    font-style:normal;
+    text-align:left;
+    padding-left: 20px;
+    
+}
+.lead{
+font-family: "DM Serif Display", serif;
+  font-weight:lighter;
+  font-style: normal;
+  
+
+}
+.fw-bold{
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:300px;
+    font-style: normal;
+}
+.block2{
+    background-image: url(./image2/bg-image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.block2-text{
+    display: flex;
+    color: black;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-size:medium;
+    
+
+
+}
+
+.block3{
+    height:auto;
+    background-color:#D2D2D2;
+    
+
+}
+.display-4{
+    font-size:larger;
+    text-align: start;
+}
+.location{
+    color: red;
+    text-align: left;
+}
+.block5{
+    background-color: black;
+    padding:10px;
+}
+.block5 .progress{
+    margin: 20px;
+    width:200px;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#FFFFFF;
+}
+
+.rating{
+    display: flex;
+    justify-content: space-around;
+
+}
+.d-flex{
+    background-color: transparent;
+    color: #100F0F;
+}
